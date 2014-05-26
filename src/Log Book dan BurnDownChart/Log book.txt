@@ -1,0 +1,59 @@
+=======================
+INFORMASI UMUM
+
+Nama kelompok:Ace
+Judul Topik:Albino
+Alamat Github:https://github.com/Farial/TIA_PG_BeSpoke.git
+Alamat Trello:https://trello.com/b/DZfjdrzF/bespoke
+Anggota 1:
+	Nama:Farial Sidabutar
+	NIM:12.111.3339
+Anggota 2:
+	Nama:Ikhsan Nuary Panggabean
+	NIM:12.111.3002
+Anggota 3:
+	Nama:YogiPrasetya
+	NIM:12.111.1206
+Anggota 4:
+	Nama:M. Nurwansyah
+	NIM:12.111.0014
+=======================
+
+
+SPRINT
+------
+Sprint 1: 
+26/5 - 29/5
+Scrummaster: Farial Sidabutar (12.111.3339)
+
+Sprint 2:
+
+
+Sprint 3: 
+
+
+Progress Harian (Diupdate tiap hari)
+------------------------------------
+
+26/5 
+Daily Scrum
+(Nama Anggota 1): Farial Sidabutar
+1. - 
+2. Hari ini saya mengerjakan slide bagian Gejala Albino 
+3. Saya belum ada kendala
+
+(Nama Anggota 2): Ikhsan Nuary Panggabean
+1. 
+2.Hari ini saya membuat artikel Penyembuhan Albino
+3.Saya belum ada kendala
+
+(Nama Anggota 3): Yogi Prasetya
+1.
+2. Hari ini saya mengerjakan pada bagian Penyebab Albino.
+3. untuk saat ini belum menemui gendala yang sulit.
+
+(Nama Anggota 3): M. Nurwansyah
+1.
+2. Hari ini saya mengerjakan pada bagian Pengertian Albino.
+3. untuk saat ini belum menemui gendala.
+...
