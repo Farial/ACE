@@ -23,11 +23,12 @@ Anggota 4:
 SPRINT
 ------
 Sprint 1: 
-26/5 - 29/5
+26/5 - 28/5
 Scrummaster: Farial Sidabutar (12.111.3339)
 
 Sprint 2:
-
+29/5 - 31/5
+Scrummaster: Ikhsan Nuary Panggabean (12.111.3339)
 
 Sprint 3: 
 
