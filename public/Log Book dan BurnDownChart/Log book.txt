@@ -1,22 +1,22 @@
 =======================
 INFORMASI UMUM
 
-Nama kelompok:Ace
-Judul Topik:Albino
-Alamat Github:https://github.com/Farial/ACE.git
-Alamat Trello:https://trello.com/b/DZfjdrzF/bespoke
-Anggota 1:
-	Nama:Farial Sidabutar
-	NIM:12.111.3339
-Anggota 2:
-	Nama:Ikhsan Nuary Panggabean
-	NIM:12.111.3002
-Anggota 3:
-	Nama:YogiPrasetya
-	NIM:12.111.1206
-Anggota 4:
-	Nama:M. Nurwansyah
-	NIM:12.111.0014
+Nama kelompok	:Ace
+Judul Topik	:Albino
+Alamat Github	:https://github.com/Farial/ACE.git
+Alamat Trello	:https://trello.com/b/DZfjdrzF/bespoke
+Anggota 1	:
+		Nama:Farial Sidabutar
+		NIM:12.111.3339
+Anggota 2	:
+		Nama:Ikhsan Nuary Panggabean
+		NIM:12.111.3002
+Anggota 3	:
+		Nama:YogiPrasetya
+		NIM:12.111.1206
+Anggota 4	:
+		Nama:M. Nurwansyah
+		NIM:12.111.0014
 =======================
 
 
@@ -45,68 +45,137 @@ Progress Harian (Diupdate tiap hari)
 Daily Scrum
 (Nama Anggota 1): Farial Sidabutar
 1. - 
-2. Hari ini saya mengerjakan slide bagian Gejala Albino 
-3. Saya belum ada kendala
+2. Hari ini saya mengerjakan slide bagian Gejala Albino.
+3. Saya belum ada kendala.
 
 (Nama Anggota 2): Ikhsan Nuary Panggabean
 1. -
-2.Hari ini saya membuat artikel Penyembuhan Albino
-3.Saya belum ada kendala
+2. Hari ini saya membuat artikel Penyembuhan Albino.
+3. Saya belum ada kendala.
 
 (Nama Anggota 3): Yogi Prasetya
 1. -
 2. Hari ini saya mengerjakan pada bagian Penyebab Albino.
-3. untuk saat ini belum menemui gendala yang sulit.
+3. Untuk saat ini belum menemui gendala yang sulit.
 
 (Nama Anggota 3): M. Nurwansyah
 1. -
 2. Hari ini saya mengerjakan pada bagian Pengertian Albino.
-3. untuk saat ini belum menemui gendala.
+3. Untuk saat ini belum menemui gendala.
 ...
 
 
 27/5 
 Daily Scrum
 (Nama Anggota 1): Farial Sidabutar
-1. Kemarin saya mengerjakan slide bagian Gejala Albino 
-2. hari ini mau melengkapi bagian dari Gejala Albino
-3. Saya belum ada kendala
+1. Kemarin saya mengerjakan slide bagian Gejala Albino.
+2. Hari ini mau melengkapi bagian dari Gejala Albino.
+3. Saya belum ada kendala.
 
 (Nama Anggota 2): Ikhsan Nuary Panggabean
-1. kemarin membuat artikel Penyembuhan Albino
-2. Hari ini saya menambahkan artikel Penyembuhan Albino
-3. Saya belum ada kendala
+1. Kemarin membuat artikel Penyembuhan Albino.
+2. Hari ini saya menambahkan artikel Penyembuhan Albino.
+3. Saya belum ada kendala.
 
 (Nama Anggota 3): Yogi Prasetya
-1. kemarin mengerjakan pada bagian Penyebab Albino.
+1. Kemarin mengerjakan pada bagian Penyebab Albino.
 2. Hari ini saya mengerjakan pada bagian Penyebab Albino, dankelainan mata pada penderita albino.
-3. untuk saat ini belum menemui gendala yang sulit.
+3. Untuk saat ini belum menemui gendala yang sulit.
 
 (Nama Anggota 3): M. Nurwansyah
-1. kemarin mengerjakan pada bagian Pengertian Albino.
+1. Kemarin mengerjakan pada bagian Pengertian Albino.
 2. Hari ini saya mengerjakan salah satu tipe Albino.
-3. untuk saat ini belum menemui gendala.
+3. Untuk saat ini belum menemui gendala.
 ...
 
 28/5 
 Daily Scrum
 (Nama Anggota 1): Farial Sidabutar
-1. Kemarin melengkapi bagian dari Gejala Albino
-2. Hari ini tambah tipe albino 
-3. Saya belum ada kendala
+1. Kemarin melengkapi bagian dari Gejala Albino.
+2. Hari ini tambah tipe albino.
+3. Saya belum ada kendala.
 
 (Nama Anggota 2): Ikhsan Nuary Panggabean
-1. kemarin menambahkan artikel Penyembuhan Albino
-2.Hari ini saya membuat tambah konten penyembuhan albino.
-3.Saya belum ada kendala
+1. Kemarin menambahkan artikel Penyembuhan Albino.
+2. Hari ini saya membuat tambah konten penyembuhan albino.
+3. Saya belum ada kendala.
 
 (Nama Anggota 3): Yogi Prasetya
-1. kemarin mengerjakan pada bagian Penyebab Albino, dan kelainan mata pada penderita albino.
-2. Hari ini saya mengerjakan perlindungan terhadap sinar matahari .
-3. untuk saat ini belum menemui kendala yang sulit.
+1. Kemarin mengerjakan pada bagian Penyebab Albino, dan kelainan mata pada penderita albino.
+2. Hari ini saya mengerjakan perlindungan terhadap sinar matahari.
+3. Untuk saat ini belum menemui kendala yang sulit.
 
 (Nama Anggota 3): M. Nurwansyah
-1. kemarin mengerjakan salah satu tipe Albino.
+1. Kemarin mengerjakan salah satu tipe Albino.
 2. Hari ini saya mengerjakan section kategori Albino.
-3. untuk saat ini belum menemui kendala.
+3. Untuk saat ini belum menemui kendala.
+...
+
+29/5 
+Daily Scrum
+(Nama Anggota 1): Farial Sidabutar
+1. Kemarin tambah tipe albino.
+2. Hari ini mulai mengerjakan pengantar dan mengidentifikasi albino pada hewan. 
+3. Saya belum ada kendala.
+
+(Nama Anggota 2): Ikhsan Nuary Panggabean
+1. Kemarin menambahkan konten Penyembuhan Albino.
+2. Hari ini saya mengerjakan mitos albino pada manusia.
+3. Saya belum ada kendala.
+
+(Nama Anggota 3): Yogi Prasetya
+1. Kemarin mengerjakan bantuan daya lihat.
+2. Hari ini saya mengerjakan perlindungan terhadap sinar matahari.
+3. Untuk saat ini belum menemui kendala yang sulit.
+
+(Nama Anggota 3): M. Nurwansyah
+1. Kemarin mengerjakan Kategori Albino.
+2. Hari ini saya mengerjakan section tantangan sosial yang dialami penderita albino.
+3. Untuk saat ini belum menemui kendala.
+...
+
+30/5 
+Daily Scrum
+(Nama Anggota 1): Farial Sidabutar
+1. Kemarin tambah pengantar dan mengidentifikasi albino pada hewan.
+2. Hari ini mulai mengerjakan masalah pada hewan albino. 
+3. Saya belum ada kendala.
+
+(Nama Anggota 2): Ikhsan Nuary Panggabean
+1. Kemarin menambahkan konten mitos albino pada manusia.
+2. Hari ini saya mengerjakan mitos albino pada hewan.
+3. Saya belum ada kendala.
+
+(Nama Anggota 3): Yogi Prasetya
+1. Kemarin mengerjakan bantuan daya lihat.
+2. Hari ini saya mengerjakan pembedahan.
+3. Untuk saat ini belum menemui kendala yang sulit.
+
+(Nama Anggota 3): M. Nurwansyah
+1. Kemarin mengerjakan tantangan sosial yang dialami penderita albino.
+2. Hari ini saya mengerjakan legenda albino di indonesia.
+3. Untuk saat ini belum menemui kendala.
+...
+
+31/5 
+Daily Scrum
+(Nama Anggota 1): Farial Sidabutar
+1. Kemarin tambah masalah pada hewan albino.
+2. Hari ini mulai mengerjakan hewan albino langka.
+3. Saya belum ada kendala.
+
+(Nama Anggota 2): Ikhsan Nuary Panggabean
+1. Kemarin menambahkan konten mitos albino pada hewan.
+2. Hari ini saya mengerjakan tambah section hewan albino terindah.
+3. Saya belum ada kendala.
+
+(Nama Anggota 3): Yogi Prasetya
+1. Kemarin mengerjakan pembedahan.
+2. Hari ini saya mengerjakan masalah kulit terkait albino.
+3. Untuk saat ini belum menemui kendala yang sulit.
+
+(Nama Anggota 3): M. Nurwansyah
+1. Kemarin mengerjakan legenda albino di indonesia.
+2. Hari ini saya mengerjakan tambah rincian Oculocutaneous Albinism.
+3. Untuk saat ini belum menemui kendala.
 ...
