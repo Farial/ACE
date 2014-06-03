@@ -104,6 +104,10 @@ article.bespoke-parent {
     margin: 0;
   }
 }
+img {
+  margin: 0px auto;
+  width: 80%;
+}
 .bespoke-before {
   -webkit-transform: translateX(100px) translateX(-320px) rotateY(-90deg) translateX(-320px);
   -moz-transform: translateX(100px) translateX(-320px) rotateY(-90deg) translateX(-320px);
