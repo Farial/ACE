@@ -151,7 +151,7 @@ Daily Scrum
 2. Hari ini saya mengerjakan pembedahan.
 3. Untuk saat ini belum menemui kendala yang sulit.
 
-(Nama Anggota 4): M. Nurwansyah
+(Nama Anggota 3): M. Nurwansyah
 1. Kemarin mengerjakan tantangan sosial yang dialami penderita albino.
 2. Hari ini saya mengerjakan legenda albino di indonesia.
 3. Untuk saat ini belum menemui kendala.
@@ -174,78 +174,31 @@ Daily Scrum
 2. Hari ini saya mengerjakan masalah kulit terkait albino.
 3. Untuk saat ini belum menemui kendala yang sulit.
 
-(Nama Anggota 4): M. Nurwansyah
+(Nama Anggota 3): M. Nurwansyah
 1. Kemarin mengerjakan legenda albino di indonesia.
 2. Hari ini saya mengerjakan tambah rincian Oculocutaneous Albinism.
 3. Untuk saat ini belum menemui kendala.
 ...
 
-02/6
+5/6 
 Daily Scrum
 (Nama Anggota 1): Farial Sidabutar
-1. Kemarin mulai mengerjakan hewan albino langka.
-2. Hari ini tambah dolphin albino, tambah gambar dolphin,tiger,lion,aligator,snake albino, rapikan slide mengidentifikasi albino, rapikan bagian mitos albino
-.
+1. Kemarin saya merapihkan slide dan menambah style.
+2. 
 3. Saya belum ada kendala.
 
 (Nama Anggota 2): Ikhsan Nuary Panggabean
-1. Kemarin mengerjakan tambah section hewan albino terindah.
-2. Hari ini saya menyelesaikan tambah section hewan albino terindah.
+1. Kemarin saya mengerjakan Milkweed Albino
+2. 
 3. Saya belum ada kendala.
 
 (Nama Anggota 3): Yogi Prasetya
-1. Kemarin mengerjakan masalah kulit terkait albino.
-2. Hari ini saya mengerjakan Nystagmus.
+1. Kemarin saya mengedit konten Ambliopia
+2. 
 3. Untuk saat ini belum menemui kendala yang sulit.
 
 (Nama Anggota 3): M. Nurwansyah
-1. Kemarin mengerjakan tambah rincian Oculocutaneous Albinism.
-2. Hari ini saya mengerjakan tambah persilangan albino.
+1. Kemarin saya mengedit konten Tntangan sosial pada penderita Albino
+2. Hari ini saya mengerjakan Keindahan albino pada Manusia
 3. Untuk saat ini belum menemui kendala.
 ...
-
-03/6
-Daily Scrum
-(Nama Anggota 1): Farial Sidabutar
-1. Kemarin tambah dolphin albino, tambah gambar dolphin,tiger,lion,aligator,snake albino, rapikan slide mengidentifikasi albino, rapikan bagian mitos albino
-.
-2. Hari ini rapikan slide, tambah strabismus.
-3. Saya belum ada kendala.
-
-(Nama Anggota 2): Ikhsan Nuary Panggabean
-1. Kemarin menyelesaikan tambah section hewan albino terindah.
-2. Hari ini saya mengerjakan Reed Wood Tree Albino.
-3. Saya belum ada kendala.
-
-(Nama Anggota 3): Yogi Prasetya
-1. Kemarin mengerjakan Nystagmus.
-2. Hari ini saya mengerjakan Mata Silindris (Astigmatism).
-3. Untuk saat ini belum menemui kendala yang sulit.
-
-(Nama Anggota 4): M. Nurwansyah
-1. Kemarin mengerjakan tambah persilangan albino.
-2. Hari ini saya mengerjakan albino pada tanaman Jagung.
-3. Untuk saat ini belum menemui kendala.
-...
-
-04/6
-Daily Scrum
-(Nama Anggota 1): Farial Sidabutar
-1. rapikan slide, tambah strabismus.
-2. Hari ini Saya mengerjakan fotophobia.
-3. Saya belum ada kendala.
-
-(Nama Anggota 2): Ikhsan Nuary Panggabean
-1. Kemarin mengerjakan Reed Wood Tree Albino.
-2. Hari ini saya tambah section Reed Wood Tree Albino.
-3. Saya belum ada kendala.
-
-(Nama Anggota 3): Yogi Prasetya
-1. Kemarin mengerjakan Mata Silindris (Astigmatism).
-2. Hari ini saya mengerjakan Ambliopia.
-3. Untuk saat ini belum menemui kendala yang sulit.
-
-(Nama Anggota 4): M. Nurwansyah
-1. Kemarin mengerjakan albino pada tanaman jagung.
-2. Hari ini saya mengerjakan tambah konten dan gambar albino pada tanaman jagung.
-3. Untuk saat ini belum menemui kendala.
