@@ -6,7 +6,7 @@ slide_width = 640px
 slide_height = 480px
 //slide_background = #eaeaea
 
-slide_transition_length = .6s
+slide_transition_length = .8s
 slide_transition_easing = ease
 slide_transition_rotate_y = 90deg
 // Safari bugs out on 3d transform-origins, so we have to fake it
@@ -19,9 +19,13 @@ bullet_transition_translate_x = 16px
 // base
 
 *
-  box-sizing: border-box
-  margin: 0
-  padding: 0
+  margin 0
+  padding 0
+  border 0
+  font-size 100%
+  font inherit
+  vertical-align baseline
+  box-sizing border-box
 
 @media print
   *
@@ -70,7 +74,7 @@ article
   margin-left: (slide_width / 2) * -1
   background: slide_background
   padding: 40px
-  border-radius: 0
+  border-radius: 20px
   @media print
     zoom: 1 !important // disable bespoke-scale
     height: 743px // seems to correspond with an A4, landscape page height
@@ -188,23 +192,19 @@ hr
   height: 20px
 
 ul
-  list-style: none
+  text-align: left
+  list-style-type: disc
 
 li
   margin-bottom: 12px
 
+article
+  ul li.a
+    list-style-type: none
+
 a
   color: #0089f3
   text-decoration: none
-
-*
-  margin 0
-  padding 0
-  border 0
-  font-size 100%
-  vertical-align baseline
-  box-sizing border-box
-
 
 article
   overflow hidden
@@ -228,17 +228,18 @@ article
     opacity 0
     text-align center
 
+article
+  section
     
-article.reveal h1,
-article.clean .reveal h1
+article.reveal h1,article.clean h1
   text-shadow 0 1px 0 #ccc, 0 2px 0 #c9c9c9, 0 3px 0 #bbb, 0 4px 0 #b9b9b9, 0 5px 0 #aaa, 0 6px 1px rgba(0,0,0,0.1), 0 0 5px rgba(0,0,0,0.1), 0 1px 3px rgba(0,0,0,0.3), 0 3px 5px rgba(0,0,0,0.2), 0 5px 10px rgba(0,0,0,0.25), 0 20px 20px rgba(0,0,0,0.15)
 
-article.reveal
+article.reveal,article.clean
     font-weight bold
     background radial-gradient(circle, #555a5f, #1c1e20)
     background-color #282a2d
 
-article.reveal
+article.reveal,article.clean
     section
       color #fff
       transition transform-origin 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985), transform 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985), visibility 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985), opacity 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985)
@@ -258,7 +259,22 @@ article
         transform rotateY(-180deg)
       &.bespoke-after-1
         transform rotateY(-90deg)
-      background-color #fff
+      
+article
+  &.third
+    section
+      &.bespoke-slide
+        transform-origin 50% 50% 350px
+      &.bespoke-inactive
+        opacity 0
+      &.bespoke-before
+        transform rotateY(180deg)
+      &.bespoke-before-1
+        transform rotateY(90deg)
+      &.bespoke-after
+        transform rotateY(-180deg)
+      &.bespoke-after-1
+        transform rotateY(-90deg)
 
 article
   &.animalclean
@@ -271,7 +287,6 @@ article
           transform translateZ(40px) rotateY(-60deg) translateX(-400px) rotateZ(120deg)
         &.bespoke-after
           transform translate3d(50px, 0, -100px)
-       background-color #fff
 
 article
   &.intro
@@ -334,15 +349,26 @@ article.intro
 article.secondpart
   background-color #fff
 
-article.clean
+article.third,article.fourt,
   -webkit-background-size cover
   -moz-background-size cover
   -o-background-size cover
   background-size cover
-  background-color #CCC
+
+article.third
+  background-image url(../img/background/k.jpg)
+
+article.fourt
+  background-image url(../img/background/plant.jpg)
+  color #fff
+
+article
+  section
+    &.animalclean
+      border #000 1px solid
 
 article.animalclean
-  background-color #CCC
+  background-image url(../img/background/c.jpg)
 
 /*article.clean.tiger
   background-image url(../img/tiger.jpg)
