@@ -273,6 +273,67 @@ article
           transform translate3d(50px, 0, -100px)
        background-color #fff
 
+article
+  &.intro
+    section
+      &.bespoke-slide
+        transform-origin 50% 50% 400px
+      &.bespoke-inactive
+        opacity 0
+      &.bespoke-before
+        transform rotateY(180deg)
+      &.bespoke-before-1
+        transform rotateY(90deg)
+      &.bespoke-after
+        transform rotateY(-180deg)
+      &.bespoke-after-1
+        transform rotateY(-90deg)
+
+
+article
+  &.secondpart
+    section
+      &.bespoke-before
+        transform translateX(-300px) rotateY(45deg) scale(0.4)
+      &.bespoke-before-3
+        transform translateX(-280px) rotateY(45deg) scale(0.4)
+        opacity 0.1
+      &.bespoke-before-2
+        transform translateX(-260px) rotateY(45deg) scale(0.4)
+        opacity 0.25
+      &.bespoke-before-1
+        transform translateX(-240px) rotateY(45deg) scale(0.4)
+        opacity 0.4
+      &.bespoke-after
+        transform translateX(300px) rotateY(-45deg) scale(0.4)
+      &.bespoke-after-1
+        transform translateX(240px) rotateY(-45deg) scale(0.4)
+        opacity 0.4
+      &.bespoke-after-2
+        transform translateX(260px) rotateY(-45deg) scale(0.4)
+        opacity 0.25
+      &.bespoke-after-3
+        transform translateX(280px) rotateY(-45deg) scale(0.4)
+        opacity 0.1
+      background-color #CCC
+
+article.clean.concave section.bespoke-before h2,
+article.clean.concave section.bespoke-after h2
+  opacity 0
+
+article.intro
+  background #add9e4
+  background -moz-radial-gradient(center, circle cover, #f7fbfc 0%, #add9e4 100%)
+  background -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, #f7fbfc), color-stop(100%, #add9e4))
+  background -webkit-radial-gradient(center, circle cover, #f7fbfc 0%, #add9e4 100%)
+  background -o-radial-gradient(center, circle cover, #f7fbfc 0%, #add9e4 100%)
+  background -ms-radial-gradient(center, circle cover, #f7fbfc 0%, #add9e4 100%)
+  background radial-gradient(center, circle cover, #f7fbfc 0%, #add9e4 100%)
+  background-color #f7fbfc
+
+article.secondpart
+  background-color #fff
+
 article.clean
   -webkit-background-size cover
   -moz-background-size cover
@@ -283,7 +344,7 @@ article.clean
 article.animalclean
   background-color #CCC
 
-article.clean.tiger
+/*article.clean.tiger
   background-image url(../img/tiger.jpg)
 
 article.clean.lion
@@ -312,10 +373,11 @@ article.clean.squirrel
 
 article.clean.Deer
   background-image url(../img/deer.jpg)
-  
+  */
 article.clean.concave section.bespoke-before h2,
 article.clean.concave section.bespoke-after h2
   opacity 0
 
 section div.image
   width 50%
+
