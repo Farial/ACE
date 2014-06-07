@@ -80,7 +80,7 @@ article
     margin: 0
 
 img
-  margin: 0px auto
+  margin: 20px auto
   width: 80%
 
 .bespoke-before
@@ -193,10 +193,6 @@ ul
 li
   margin-bottom: 12px
 
-p
-  margin: 0 100px 12px
-  line-height: 22px
-
 a
   color: #0089f3
   text-decoration: none
@@ -232,45 +228,156 @@ article
     opacity 0
     text-align center
 
+    
 article.reveal h1,
 article.clean .reveal h1
   text-shadow 0 1px 0 #ccc, 0 2px 0 #c9c9c9, 0 3px 0 #bbb, 0 4px 0 #b9b9b9, 0 5px 0 #aaa, 0 6px 1px rgba(0,0,0,0.1), 0 0 5px rgba(0,0,0,0.1), 0 1px 3px rgba(0,0,0,0.3), 0 3px 5px rgba(0,0,0,0.2), 0 5px 10px rgba(0,0,0,0.25), 0 20px 20px rgba(0,0,0,0.15)
-
-article.reveal h1
-  font-size: 200px;
-  padding-bottom: 50px;
 
 article.reveal
     font-weight bold
     background radial-gradient(circle, #555a5f, #1c1e20)
     background-color #282a2d
 
-article
-  &.reveal
+article.reveal
     section
       color #fff
       transition transform-origin 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985), transform 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985), visibility 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985), opacity 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985)
 
 article
   &.clean
-    &.concave
-      section
-        &.bespoke-slide
-          transform-origin 50% 50% 0px
-        &.bespoke-inactive
-          opacity 0
-        &.bespoke-before
-          transform rotateY(180deg)
-        &.bespoke-before-1
-          transform rotateY(90deg)
-        &.bespoke-after
-          transform rotateY(-180deg)
-        &.bespoke-after-1
-          transform rotateY(-90deg)
+    section
+      &.bespoke-slide
+        transform-origin 50% 50% 0px
+      &.bespoke-inactive
+        opacity 0
+      &.bespoke-before
+        transform rotateY(180deg)
+      &.bespoke-before-1
+        transform rotateY(90deg)
+      &.bespoke-after
+        transform rotateY(-180deg)
+      &.bespoke-after-1
+        transform rotateY(-90deg)
+      background-color #fff
 
+article
+  &.animalclean
+    section
+      &.bespoke-slide
+        transform-origin 0% 100% 0px
+      &.bespoke-inactive
+        opacity 0
+      &.bespoke-before
+          transform translateZ(40px) rotateY(-60deg) translateX(-400px) rotateZ(120deg)
+        &.bespoke-after
+          transform translate3d(50px, 0, -100px)
+       background-color #fff
+
+article
+  &.intro
+    section
+      &.bespoke-slide
+        transform-origin 50% 50% 400px
+      &.bespoke-inactive
+        opacity 0
+      &.bespoke-before
+        transform rotateY(180deg)
+      &.bespoke-before-1
+        transform rotateY(90deg)
+      &.bespoke-after
+        transform rotateY(-180deg)
+      &.bespoke-after-1
+        transform rotateY(-90deg)
+
+
+article
+  &.secondpart
+    section
+      &.bespoke-before
+        transform translateX(-300px) rotateY(45deg) scale(0.4)
+      &.bespoke-before-3
+        transform translateX(-280px) rotateY(45deg) scale(0.4)
+        opacity 0.1
+      &.bespoke-before-2
+        transform translateX(-260px) rotateY(45deg) scale(0.4)
+        opacity 0.25
+      &.bespoke-before-1
+        transform translateX(-240px) rotateY(45deg) scale(0.4)
+        opacity 0.4
+      &.bespoke-after
+        transform translateX(300px) rotateY(-45deg) scale(0.4)
+      &.bespoke-after-1
+        transform translateX(240px) rotateY(-45deg) scale(0.4)
+        opacity 0.4
+      &.bespoke-after-2
+        transform translateX(260px) rotateY(-45deg) scale(0.4)
+        opacity 0.25
+      &.bespoke-after-3
+        transform translateX(280px) rotateY(-45deg) scale(0.4)
+        opacity 0.1
+      background-color #CCC
+
+article.clean.concave section.bespoke-before h2,
+article.clean.concave section.bespoke-after h2
+  opacity 0
+
+article.intro
+  background #add9e4
+  background -moz-radial-gradient(center, circle cover, #f7fbfc 0%, #add9e4 100%)
+  background -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, #f7fbfc), color-stop(100%, #add9e4))
+  background -webkit-radial-gradient(center, circle cover, #f7fbfc 0%, #add9e4 100%)
+  background -o-radial-gradient(center, circle cover, #f7fbfc 0%, #add9e4 100%)
+  background -ms-radial-gradient(center, circle cover, #f7fbfc 0%, #add9e4 100%)
+  background radial-gradient(center, circle cover, #f7fbfc 0%, #add9e4 100%)
+  background-color #f7fbfc
+
+article.secondpart
+  background-color #fff
+
+article.clean
+  -webkit-background-size cover
+  -moz-background-size cover
+  -o-background-size cover
+  background-size cover
+  background-color #CCC
+
+article.animalclean
+  background-color #CCC
+
+/*article.clean.tiger
+  background-image url(../img/tiger.jpg)
+
+article.clean.lion
+  background-image url(../img/lion.jpg)
+
+article.clean.aligator
+  background-image url(../img/Aligator.jpg)
+
+article.clean.snake
+  background-image url(../img/Albino-Lavendar-King-Snake.jpg)
+
+article.clean.dolphin
+  background-image url(../img/dolphin.jpg)
+
+article.clean.whale
+  background-image url(../img/Whale.jpg)
+
+article.clean.kangaroo
+  background-image url(../img/Kangaroo.jpg)
+
+article.clean.gorilla
+  background-image url(../img/Gorilla.jpg)
+
+article.clean.squirrel
+  background-image url(../img/Squirrel.jpg)
+
+article.clean.Deer
+  background-image url(../img/deer.jpg)
+  */
 article.clean.concave section.bespoke-before h2,
 article.clean.concave section.bespoke-after h2
   opacity 0
 
 section div.image
   width 50%
+
