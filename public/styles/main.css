@@ -480,7 +480,8 @@ article.intro section.bespoke-after-1 {
   transform: rotateY(-90deg);
 }
 article.secondpart section {
-  background-color: #ccc;
+  color: #fff;
+  -webkit-transform-origin: 50% -100% 0;
 }
 article.secondpart section.bespoke-before {
   -webkit-transform: translateX(-300px) rotateY(45deg) scale(0.4);
@@ -573,7 +574,8 @@ article.intro {
   background-color: #f7fbfc;
 }
 article.secondpart {
-  background-color: #fff;
+  text-shadow: 2px 2px 2px #000;
+  background-image: url("../img/background/asd.jpg");
 }
 article.third,
 article.fourt,
@@ -583,6 +585,11 @@ article.fourt,
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
+}
+article.second {
+  color: #fff;
+  text-shadow: 2px 2px 2px #000;
+  background-image: url("../img/background/fd.png");
 }
 article.third {
   background-image: url("../img/background/k.jpg");
